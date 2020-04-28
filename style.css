@@ -1,0 +1,122 @@
+body{
+	background-image: url(Photoes/carsharing.jpg); 
+	background-size: 100%;
+	background-position: top;
+    background-repeat: no-repeat;
+}
+.h1{
+	font-size: 100px;
+	color: #280761;
+	text-align: center;
+	margin-left: 25%;
+	margin-right: 25%
+}
+.generalart{
+	visibility: hidden;
+}
+.art{
+	text-align: center;
+}
+.text{
+	font-size: 55px;
+	color: #280761;
+	text-align: center;
+	margin-left: 10%;
+	margin-right: 10%
+}
+.n{
+	display: inline-block;
+	font-size: 100px;
+	color: #280761;
+	margin-left: 22.5%;
+
+}
+.child{
+	background: #eee;
+    border: 1px solid #ccc;
+    padding: 10px;
+    float: left;
+    width: 23.5%;
+    margin-right: 2%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.blok{
+    text-align: center;
+}
+.teaser{
+	vertical-align: top;
+	display: inline-block;
+    text-align: center;
+    margin-bottom: 50px;
+    padding: 30px 10px;
+}
+.teaser1{
+	vertical-align: top;
+	display: inline-block;
+    text-align: center;
+    margin-bottom: 50px;
+    padding: 30px 10px;
+}
+.teaser2{
+	vertical-align: top;
+	display: inline-block;
+    text-align: center;
+    margin-bottom: 50px;
+    padding: 30px 10px;
+}
+.comment{
+	font-size: 49px;
+	color: #280761;
+	text-align: left;
+	margin-left: 10%;
+	margin-right: 10%;
+	border: 10px black;
+	background: grey;
+	padding: 10px;
+}
+.text2{
+	font-size: 40px;
+	color: #280761;
+	text-align: center;
+}
+.htext{
+	padding: 20px;
+	width: 380px;
+}
+.h2{
+	font-size: 55px;
+	color: #280761;
+}
+.h3{
+	font-size: 45px;
+	color: #280761;
+}
+.button{
+	display: inline-block;
+    width: 50px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+	color: #69D1E2;
+	text-decoration: none;
+	text-align: center;
+	padding: 10px 60px;
+	outline: none;
+	border-width: 2px 0;
+	border-style: solid none;
+	border-color: #130133;
+	border-radius: 6px;
+	background: linear-gradient(to top, #130133, #23025C);
+	transition: 0.2s;
+}
+.button:hover { background: linear-gradient(#130133, #23025C) #f5ae00; }
+.button:active { background: linear-gradient(#23025c, #130133) #f59500; }
+.inf{
+	border: 4px double #25045e;
+	text-align: left;
+	color: #5D5C5C;
+	font-size: 20px;
+}
